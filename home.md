@@ -1,7 +1,3 @@
-layout: page
-title: "Home"
-permalink: /
-
 # Welcome.
 
 Hey there! I'm ascent_, and this is supposed to be my website. This will look better in the future, but this'll work for now, I guess.
