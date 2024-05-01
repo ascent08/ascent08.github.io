@@ -1,9 +1,8 @@
 /* General things for the whole page*/
-body {
-	font-family: 'sans-serif';
+* {
+	font-family: "Noto Sans", sans-serif;
 }
 footer {
-	font-family: 'sans-serif';
 	position: fixed;
 	left: 0;
 	bottom: 0;
