@@ -1,0 +1,57 @@
+/* General things for the whole page*/
+body {
+	font-family: 'sans-serif';
+}
+footer {
+	font-family: 'sans-serif';
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 10px;
+}
+
+/* Stuff for links */
+a:link {
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+	}
+a:visited {
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:hover {
+	color: white;
+	background-color: transparent;
+	text-decoration: underline;
+}
+a:active {
+	color: white;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+/* Element-specific stuff */
+
+#header1 {
+	width: 100%;
+	height: 140px;
+	background: #2d0556;
+	line-height: 1.5;
+	text-align: center;
+	float: left;
+	color: white;
+}
+
+#header2 {
+	width: 100%;
+	height: 80px;
+	background: #0e1464;
+	line-height: 1;
+	float: right;
+	text-align: center;
+	color: #aaaaaa
+}
