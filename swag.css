@@ -4,9 +4,8 @@
 }
 html {
 	height:100%;
-	background:url('swagsong.png') repeat center center fixed; /* changing this to something else once silksong releases*/
 	background-size: 1% 1%;
-	background-color: rgba(10,10,10,1);
+	background-color: rgba(3, 5, 42, 1);
 	background-blend-mode: multiply;
 }
 footer {
@@ -87,4 +86,29 @@ a:active {
 	height: 10%;
 	width: 10%;
 	padding-right: 20px;
+}
+
+#icon {
+	width: 30px;
+	float: center;
+	padding: 4px
+}
+
+#banner {
+	width: 100%;
+	height: auto;
+	background: #070954;
+	background: linear-gradient(150deg, rgba(7, 9, 84, 1) 0%, rgba(4, 8, 124, 1) 12%, rgba(58, 21, 50, 1) 50%, rgba(141, 45, 3, 1) 88%, rgba(99, 32, 8, 1) 100%);
+	line-height: 1;
+	text-align: center;
+	color: #d9d9d9;
+	max-width: 1000px;
+	border-style: inset;
+	border-width: thick;
+	border-color: #1d0546;
+	margin-bottom: 10px;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	font-size: 36px
 }
